@@ -1,0 +1,7 @@
+{
+    "api_request": {
+        "private_key": "<YOUR_API_PRIVATE_KEY>",
+        "public_key": "<YOUR_API_PUBLIC_KEY>",
+        "ts": 1
+    }
+}
